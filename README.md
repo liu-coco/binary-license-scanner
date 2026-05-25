@@ -141,8 +141,6 @@ chmod +x scripts/analyze_binary.py
 /binary-license-scanner analyze /path/to/binary
 ```
 
-通过 [Releases](https://github.com/liu-coco/binary-license-scanner/releases) 下载 `.skill` 文件安装。
-
 ### 作为独立 Python 脚本
 
 除了 Python 3.8+ 和标准系统工具外无其他依赖。
